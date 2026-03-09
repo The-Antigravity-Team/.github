@@ -1,2 +1,2 @@
-# .github
-The Antigravity Team Document
+# The Antigravity Team
+
